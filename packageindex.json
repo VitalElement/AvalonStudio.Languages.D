@@ -1,0 +1,8 @@
+{
+  "Name": "AvalonStudio.Toolchains.D",
+  "Description": "D Programming Language Support (DUB)",
+  "RepoUrl": "http://github.com/VitalElement/AvalonStudio.Languages.D.git",
+  "Tags": [
+    "Win32-Slow-v1.0.0"
+  ]
+}
